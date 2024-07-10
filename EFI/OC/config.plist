@@ -256,7 +256,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.9</string>
+                    <string>V1.9.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -454,7 +454,7 @@
                     <key>BundlePath</key>
                     <string>IntelBluetoothFirmware.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0</string>
+                    <string>V2.4.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -472,7 +472,7 @@
                     <key>BundlePath</key>
                     <string>IntelBTPatcher.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0</string>
+                    <string>V2.4.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -611,7 +611,7 @@
                 <key>CustomSMBIOSGuid</key>
                 <false/>
                 <key>DisableIoMapper</key>
-                <false/>
+                <true/>
                 <key>DisableIoMapperMapping</key>
                 <false/>
                 <key>DisableLinkeditJettison</key>
@@ -955,23 +955,23 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>F5K920609QXFHDDJA</string>
+                <string>C02007200J900008C</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>3842</integer>
                 <key>ROM</key>
-                <data>dFY8NE2x</data>
+                <data>2JaV0FBV</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacPro7,1</string>
+                <string>iMac20,2</string>
                 <key>SystemSerialNumber</key>
-                <string>F5KYQPYPP7QM</string>
+                <string>C02C8WYK046M</string>
                 <key>SystemUUID</key>
-                <string>D8121AD1-7BB7-4381-90B8-2C1E583FD918</string>
+                <string>DBEF3F53-26C6-4148-945C-948215004747</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
